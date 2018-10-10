@@ -1,0 +1,8 @@
+genotypename:    /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/example.ped
+snpname:         /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/example.pedsnp # or example.map, either works 
+indivname:       /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/example.pedind # or example.ped, either works
+outputformat:    EIGENSTRAT
+genotypeoutname: /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/geno.eigenstrat
+snpoutname:      /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/snp.txt
+indivoutname:    /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/ind.txt
+familynames:     NO
