@@ -1,5 +1,5 @@
 #!/usr/bin/perl
 
-$parfile = "par.PED.EIGENSTRAT";                    
+$parfile = "/home/omics/DATA1/haeun/stemness/src/GTEx-multi-tissue/par.PED.EIGENSTRAT";                    
 
-system("../bin/convertf -p $parfile");
+system("/home/omics/miniconda2/bin/convertf -p $parfile");

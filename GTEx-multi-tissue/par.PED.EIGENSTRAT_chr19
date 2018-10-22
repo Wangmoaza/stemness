@@ -1,0 +1,8 @@
+genotypename:    /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/MAF0.01_white_GTEx_genotype_MetaTissue_chr19.bed
+snpname:         /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/MAF0.01_white_GTEx_genotype_MetaTissue_chr19.bim 
+indivname:       /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/MAF0.01_white_GTEx_genotype_MetaTissue_chr19.fam
+outputformat:    EIGENSTRAT
+genotypeoutname: /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/geno_chr19.eigenstrat
+snpoutname:      /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/snp_chr19.txt
+indivoutname:    /home/omics/DATA1/haeun/stemness/data/TCGA-TARGET-GTEx/GTEx-mutli-tissue/01_ori_input/ind_chr19.txt
+familynames:     NO
